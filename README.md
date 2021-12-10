@@ -2,11 +2,11 @@
 
 Projeto Final C#
 
-Screenshot do programa 
-[ Tela inicial do programa ]: menuprincipal.png
+Screenshot do programa: 
+[ Tela inicial do programa ](menuprincipal.png)
 
-Download do Programa
-[Link]: https://github.com/UlissesSilva08/Projeto_Final/archive/refs/heads/main.zip 
+Download do Programa:
+[Link .zip](https://github.com/UlissesSilva08/Projeto_Final/archive/refs/heads/main.zip) 
 
 Descompacte na pasta de preferência.
 
